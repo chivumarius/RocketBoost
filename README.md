@@ -20,11 +20,11 @@ In "Rocket Boost," you pilot a spaceship through increasingly difficult levels, 
 
 
 
-![Starting from the Launch Pad](https://imgur.com/7jK7JXm)
+![Starting from the Launch Pad](https://i.imgur.com/7jK7JXm.jpeg)
 *Overview of the game starting for Rocket Boost, in which the Rocket starts from the Launch Pad.*
 
 
-![Rocket Explosion](https://i.imgur.com/k3a8btU.jpeg)
+![Rocket Explosion](https://i.imgur.com/XqCLLX4.jpeg)
 *The Rocket/Player must avoid hitting obstacles or landing on them or the ground. The rocket explodes otherwise.*
 
 
@@ -49,3 +49,4 @@ In "Rocket Boost," you pilot a spaceship through increasingly difficult levels, 
     ```
 2. **Open the project in Unity.**
 3. **Run the main scene** to start playing.
+
